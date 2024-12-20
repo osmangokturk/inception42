@@ -13,6 +13,12 @@ I have a macOS as the physical machine. I will have a debian virtual machine to 
 ## Makefile
 with the help of makefile, we will define or customize several commands that will do specific jobs. 
 
+mybuild: it will invoke build function of docker-compose that the specifications are given the file. 
 
+PIC HERE
 
+myup: 
+
+## Docker-compse.yaml file
+the file is given in the repository. 
 
