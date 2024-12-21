@@ -39,4 +39,6 @@ The first part (wp:) actually refers to the named volume defined in the volumes 
 
 
 
-<u>networks: </u> 
+<u>networks: 
+-mynetwork
+it is plural like the anaolgu that in the physical world a commputer can have different netorks like cabled etherne,  wi-fi, bluetooth.
